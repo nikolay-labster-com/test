@@ -12,6 +12,14 @@ namespace ConsoleApplication1
         {
             // change 2
             //change 1
+
+            // let's call my first procedure
+            MyTestSub1();
+        }
+
+        private static void MyTestSub1()
+        {
+            // i will write some here later
         }
     }
 }
