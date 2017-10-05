@@ -26,6 +26,8 @@ namespace ConsoleApplication1
 
             var wow = new WowClass();
             wow.Wow();
+
+			// conflicting change!
         }
 
         private static void MyTestSub1()
