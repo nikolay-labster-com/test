@@ -22,6 +22,8 @@ namespace ConsoleApplication1
             MyTestSub1();
 
             // something very important here
+
+            var dup = new Duplicate();
         }
 
         private static void MyTestSub1()
@@ -35,6 +37,11 @@ namespace ConsoleApplication1
             {
                 return "GO!";
             }
+        }
+
+        private class Duplicate
+        {
+
         }
     }
 }
