@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             //change 1
             // change 2
-
+			
             var test = new MyTestClass();
             Console.WriteLine(test.SuperFunction());
 
@@ -43,6 +43,10 @@ namespace ConsoleApplication1
             {
 
             }
+			public void Test2()
+			{
+
+			}
         }
     }
 }
