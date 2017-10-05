@@ -13,6 +13,8 @@ namespace ConsoleApplication1
             //change 1
             // change 2
 
+            // dumb change
+
             var test = new MyTestClass();
             Console.WriteLine(test.SuperFunction());
 
