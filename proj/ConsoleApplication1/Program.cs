@@ -26,6 +26,8 @@ namespace ConsoleApplication1
 
             var wow = new WowClass();
             wow.Wow();
+
+			// a warning
         }
 
         private static void MyTestSub1()
