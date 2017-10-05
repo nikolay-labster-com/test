@@ -11,6 +11,17 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             //change 1
+
+            var test = new MyTestClass();
+            Console.WriteLine(test.SuperFunction());
+        }
+
+        private class MyTestClass
+        {
+            public string SuperFunction()
+            {
+                return "GO!";
+            }
         }
     }
 }
