@@ -20,6 +20,8 @@ namespace ConsoleApplication1
             MyTestSub1();
 
             // something very important here
+            var wow = new WowClass();
+            wow.Wow();
         }
 
         private static void MyTestSub1()
@@ -32,6 +34,14 @@ namespace ConsoleApplication1
             public string SuperFunction()
             {
                 return "GO!";
+            }
+        }
+
+        private class WowClass
+        {
+            public void Wow()
+            {
+
             }
         }
     }
