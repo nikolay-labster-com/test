@@ -1,3 +1,6 @@
 created 1
 
 change in local branch 1 + additional change + more changes in branch 1
+change in local branch 1 + additional change
+
+change in local branch 2
