@@ -20,6 +20,8 @@ namespace ConsoleApplication1
 
             // let's call my first procedure
             MyTestSub1();
+
+            // something very important here
         }
 
         private static void MyTestSub1()
