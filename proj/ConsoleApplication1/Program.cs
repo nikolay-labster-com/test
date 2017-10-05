@@ -13,6 +13,8 @@ namespace ConsoleApplication1
             //change 1
             // change 2
 
+            // dumb change
+
             var test = new MyTestClass();
             Console.WriteLine(test.SuperFunction());
 
@@ -20,6 +22,8 @@ namespace ConsoleApplication1
             MyTestSub1();
 
             // something very important here
+            var dup = new Duplicate();
+
             var wow = new WowClass();
             wow.Wow();
         }
@@ -43,6 +47,15 @@ namespace ConsoleApplication1
             {
 
             }
+			public void MyCoolMethod()
+			{
+
+			}
+        }
+
+        private class Duplicate
+        {
+
         }
     }
 }
