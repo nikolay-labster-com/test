@@ -47,6 +47,10 @@ namespace ConsoleApplication1
             {
 
             }
+			public void Test2()
+			{
+
+			}
 			public void MyCoolMethod()
 			{
 
