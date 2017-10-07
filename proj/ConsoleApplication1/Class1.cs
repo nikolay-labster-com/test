@@ -8,7 +8,7 @@ namespace ConsoleApplication1
 {
 	class Class1
 	{
-
+		// change in parrallel to LF
 		// asdf asdf
 	}
 }
