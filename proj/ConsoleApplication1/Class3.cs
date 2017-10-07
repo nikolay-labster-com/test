@@ -8,5 +8,6 @@ namespace ConsoleApplication1
 {
 	class Class3
 	{
+		// test change!
 	}
 }
