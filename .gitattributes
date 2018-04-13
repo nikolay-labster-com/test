@@ -62,3 +62,5 @@ autocrlf=true
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+
+*.unity3d filter=lfs diff=lfs merge=lfs -text
